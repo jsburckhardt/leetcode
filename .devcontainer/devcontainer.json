@@ -33,7 +33,35 @@
 
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
-		"ms-python.python"
+		"ms-python.python",
+		"aaron-bond.better-comments",
+		"adamhartford.vscode-base64",
+		"alefragnani.Bookmarks",
+		"CoenraadS.bracket-pair-colorizer-2",
+		"DeepInThought.vscode-shell-snippets",
+		"dracula-theme.theme-dracula",
+		"eamodio.gitlens",
+		"formulahendry.code-runner",
+		"foxundermoon.shell-format",
+		"JaimeOlivares.yuml",
+		"mads-hartmann.bash-ide-vscode",
+		"mikestead.dotenv",
+		"ms-azure-devops.azure-pipelines",
+		"ms-azuretools.vscode-docker",
+		"ms-vscode-remote.remote-containers",
+		"ms-vscode-remote.remote-ssh",
+		"ms-vscode-remote.remote-ssh-edit",
+		"ms-vscode-remote.remote-wsl",
+		"ms-vscode-remote.vscode-remote-extensionpack",
+		"ms-vscode.azure-account",
+		"ms-vscode.azurecli",
+		"oderwat.indent-rainbow",
+		"randrade23.beautify-json",
+		"redhat.vscode-yaml",
+		"streetsidesoftware.code-spell-checker",
+		"timonwong.shellcheck",
+		"VisualStudioExptTeam.vscodeintellicode",
+		"yzhang.markdown-all-in-one"
 	]
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
