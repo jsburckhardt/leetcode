@@ -61,7 +61,8 @@
 		"streetsidesoftware.code-spell-checker",
 		"timonwong.shellcheck",
 		"VisualStudioExptTeam.vscodeintellicode",
-		"yzhang.markdown-all-in-one"
+		"yzhang.markdown-all-in-one",
+		"ms-python.python"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
